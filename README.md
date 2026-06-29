@@ -81,6 +81,6 @@ MIT License
 
 ## 👨‍💻 Author
 
-Developed by **Joel T. Baiju**
+Developed by **Joel T. Byju**
 
 Custom resource created for FiveM QBCore Roleplay servers.
