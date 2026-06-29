@@ -61,17 +61,7 @@ Configure everything inside `config.lua`.
 
 ---
 
-## 📸 Preview
 
-Add screenshots here.
-
-```
-images/
-    preview1.png
-    preview2.png
-```
-
----
 
 ## 📄 License
 
